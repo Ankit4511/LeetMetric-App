@@ -85,6 +85,7 @@ h1{
     flex-direction: row;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    text-align: center;
     gap: 10px;
 }
 
